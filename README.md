@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on TofuTracker, a multimedia tracking website!<br>👯 I’m looking to collaborate on React, Next.js and NestJS projects.<br>🤝 I’m looking for help with APIs and backend architecture!<br>🌱 I’m currently learning about CLEAN architecture.<br>💬 Ask me about what I'm working on, and maybe we can collaborate!
 
